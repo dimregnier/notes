@@ -16,13 +16,13 @@ _Ici je documente en quelques lignes ce qui occupe mon temps et mon esprit. Cett
 | :--- | :--- | :--- | :---
 | Youn Sun Nah | She Moves On | 2017 | [BC](https://younsunnah.bandcamp.com/album/she-moves-on){:target="_blank"} · [SP](https://open.spotify.com/intl-fr/album/2MVFVl8gEk3enlgk4HQO4L){:target="_blank"}
 | Izo FitzRoy | How The Mighty Fall | 2020 | [BC](https://izofitzroy.bandcamp.com/album/how-the-mighty-fall){:target="_blank"} · [SP](https://open.spotify.com/album/3p0SMuDOdI60ZN311oQ9CG?si=KZ7qVtl9R0yV3c1RdPTfgA){:target="_blank"}
-| Other Lives | For Their Love | 2020 | [**ICI**](/blog/obsession-printemps-2024/) · [SP](https://open.spotify.com/album/1pesl95uJqfN7kIOFozSHt?si=DbPQV9p9SL23H8yh3zfpEg){:target="_blank"}
-| Maxime Denuc | Nachtorn | 2022 | [**ICI**](/blog/obsession-dec-2023/) · [SP](https://open.spotify.com/album/0leFuQg79HX0GPmIhhV8rl?si=yI1KFXOuS5SwDsaMif-8FA){:target="_blank"}
-| The Ascending | The Ascending | 2023 | [**ICI**](/blog/obsession-mai-2023/) · [SP](https://open.spotify.com/album/7j3ghY9SM7sZZqbw1mIPKb?si=FWnOTbwCRY-kLfuYWCB-dg){:target="_blank"}
+| Other Lives | For Their Love | 2020 | [**ICI**](https://dimitriregnier.net/blog/obsession-printemps-2024/) · [SP](https://open.spotify.com/album/1pesl95uJqfN7kIOFozSHt?si=DbPQV9p9SL23H8yh3zfpEg){:target="_blank"}
+| Maxime Denuc | Nachtorn | 2022 | [**ICI**](https://dimitriregnier.net/blog/obsession-dec-2023/) · [SP](https://open.spotify.com/album/0leFuQg79HX0GPmIhhV8rl?si=yI1KFXOuS5SwDsaMif-8FA){:target="_blank"}
+| The Ascending | The Ascending | 2023 | [**ICI**](https://dimitriregnier.net/blog/obsession-mai-2023/) · [SP](https://open.spotify.com/album/7j3ghY9SM7sZZqbw1mIPKb?si=FWnOTbwCRY-kLfuYWCB-dg){:target="_blank"}
 
 ### En tâche de fond
 
-- Mise à jour des [#Supports](/blog/tags/support/){:target="_blank"} de formation sur mon blog.
+- Mise à jour des [#Supports](https://dimitriregnier.net/blog/tags/support/){:target="_blank"} de formation sur mon blog.
 - J'anime le collectif [Nantes Podcast Club](https://nantespodcastclub.fr){:target="_blank"}.
 - J'anime l'infolettre [La Plateforme se projette](https://buttondown.email/laplateformeseprojette){:target="_blank"} <cite>_([Pôle audiovisuel des Pays de la Loire](https://www.laplateforme.net/){:target="_blank"})._</cite>
 - Enseignement : <cite>_([IUT](https://iutnantes.univ-nantes.fr/){:target="_blank"}, [ISEG](https://www.iseg.fr/ecole-communication-nantes/){:target="_blank"}, [UCO](https://nantes.uco.fr/fr){:target="_blank"}, [3IS](https://www.3is-education.fr/campus/ecole-cinema-son-nantes){:target="_blank"})_</cite>
@@ -54,7 +54,7 @@ _Ici je documente en quelques lignes ce qui occupe mon temps et mon esprit. Cett
 - 18 & 20/04/2024 : [RENCONTRE PUBLIQUE](https://dimitriregnier.net/blog/rencontres-publiques/){:target="_blank"} autour de mon travail sonore.
 - 15/04/2024 : collaboration avec un chercheur du CNRS sur une [cartographie de l'espace sonore](https://www.paysage-sonore.net){:target="_blank"} du centre de Nantes.
 - 06/04/2024 : livre · [Les Fossoyeuses](https://www.leslibraires.fr/livre/18514517-one-shot-les-fossoyeuses-taina-tervonen-marchialy){:target="_blank"} de Taina Tervonen - _Éd. Marchialy (2021)._
-- 16/03/2024 : participation à un [atelier d'écriture assisté par IA](/blog/retour-sur-un-atelier-d-ecriture-assiste-par-ia/).
+- 16/03/2024 : participation à un [atelier d'écriture assisté par IA](https://dimitriregnier.net/blog/retour-sur-un-atelier-d-ecriture-assiste-par-ia/).
 - 15/03/2024 : candidature envoyée pour le **Prix Albert Londres**. _(Refusé)_
 - 28/02/2024 : candidature envoyée pour le **Prix Guillaume Mulliez**. _(Refusé)_
 - 03/02/2024 : ajout d'un _article au hasard_ au pied de chaque post.
@@ -67,6 +67,4 @@ _Ici je documente en quelques lignes ce qui occupe mon temps et mon esprit. Cett
 - Artiste/auteur · [Observatoire des podcasts](https://www.culture.gouv.fr/Thematiques/audiovisuel/Actualites/observatoire-des-podcasts-etude-sur-les-auteurs-et-autrices-de-podcasts){:target="_blank"} de l'ARCOM (culture.gouv.fr).
 - Artiste/auteur · [Continuité des revenus](https://continuite-revenus.fr/){:target="_blank"} de Collectif La Buse (la-buse.org).
 - Liberté d'expression · [Guillaume Meurice : On ne peut plus rien rire ?](https://www.youtube.com/watch?v=_aEWTnwdjt8){:target="_blank"} de Clément Viktorovitch (YouTube).
-- Web · [Aux apatrides du web merdique](https://www.arretsurimages.net/chroniques/clic-gauche/aux-apatrides-du-web-merdique){:target="_blank"} de Thibault Prévost (arretsurimages.net).
-
-<now-webring><a href="https://encemoment.site">Découvrez le Webring “En ce moment”</a></now-webring> 
+- Web · [Aux apatrides du web merdique](https://www.arretsurimages.net/chroniques/clic-gauche/aux-apatrides-du-web-merdique){:target="_blank"} de Thibault Prévost (arretsurimages.net). 
