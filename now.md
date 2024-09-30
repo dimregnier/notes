@@ -54,7 +54,7 @@ _Ici je documente en quelques lignes ce qui occupe mon temps et mon esprit. Cett
 - 18 & 20/04/2024 : [RENCONTRE PUBLIQUE](https://dimitriregnier.net/blog/rencontres-publiques/){:target="_blank"} autour de mon travail sonore.
 - 15/04/2024 : collaboration avec un chercheur du CNRS sur une [cartographie de l'espace sonore](https://www.paysage-sonore.net){:target="_blank"} du centre de Nantes.
 - 06/04/2024 : livre · [Les Fossoyeuses](https://www.leslibraires.fr/livre/18514517-one-shot-les-fossoyeuses-taina-tervonen-marchialy){:target="_blank"} de Taina Tervonen - _Éd. Marchialy (2021)._
-- 16/03/2024 : participation à un [atelier d'écriture assisté par IA](https://dimitriregnier.net/blog/retour-sur-un-atelier-d-ecriture-assiste-par-ia/).
+- 16/03/2024 : participation à un [atelier d'écriture assisté par IA](https://dimitriregnier.net/blog/retour-sur-un-atelier-d-ecriture-assiste-par-ia/){:target="_blank"}.
 - 15/03/2024 : candidature envoyée pour le **Prix Albert Londres**. _(Refusé)_
 - 28/02/2024 : candidature envoyée pour le **Prix Guillaume Mulliez**. _(Refusé)_
 - 03/02/2024 : ajout d'un _article au hasard_ au pied de chaque post.
