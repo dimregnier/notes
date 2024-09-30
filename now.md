@@ -1,6 +1,6 @@
 ---
 title: "Now"
-order: 1
+order: 2
 in_menu: true
 ---
 _Ici je documente en quelques lignes ce qui occupe mon temps et mon esprit. Cette page fait partie du webring francophone [En ce moment](https://encemoment.site/){:target="_blank"}._
