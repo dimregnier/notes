@@ -29,7 +29,7 @@ _Ici je documente en quelques lignes ce qui occupe mon temps et mon esprit. Cett
 
 ### En pause
 
-- Archéologie de ma [présence sur le web](/resume/){:target="_blank"}.
+- Archéologie de ma [présence sur le web](https://dimitriregnier.net/resume/){:target="_blank"}.
 
 ### Films
 
