@@ -1,8 +1,8 @@
 ---
-title: Accueil
+title: "Accueil"
 order: 0
+in_menu: true
 ---
+# Bienvenue sur mes notes
 
-# L'Échappée Belle
-
-L'Échappée Belle est **une association** qui a pour objet de soutenir et promouvoir des activités et des personnes qui travaillent autour de **valeurs de consentement, de bien commun et de prendre soin des personnes et de l’environnement**.
+Ce mini-site à pour but de consigner différentes notes rapides. De les rendre consultables et modifiables facilement, sur n'importe quel appareil. 
