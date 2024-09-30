@@ -1,9 +1,8 @@
 ---
-title: Contact
+title: "Contact"
 order: 1
+in_menu: true
 ---
+Si comme moi vous aimez écrire, le mieux c'est de m'envoyer un bon vieil email.
 
-L'Échappée Belle est actuellement composée de 6 membres.
-
-Pour nous contacter : [coucou@lechappeebelle.team](mailto:coucou@lechappeebelle.team)
-`
+Me contacter : [salut(arobase)dimi.re](mailto:s%61lut&#64;d%69%6di%2e&#114;%65?subject=Prise%20de%20contact&body=Bonjour%20Dimitri%2C%0A%0A) 
