@@ -1,6 +1,6 @@
 ---
 title: "Contact"
-order: 1
+order: 2
 in_menu: true
 ---
 Si comme moi vous aimez écrire, le mieux c'est de m'envoyer un bon vieil email.
