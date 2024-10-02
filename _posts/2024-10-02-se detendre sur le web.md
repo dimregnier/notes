@@ -3,7 +3,7 @@ title: "Se détendre sur le web"
 ---
 J'avoue. Depuis que j'ai quitté les réseaux sociaux commerciaux je réponds mieux aux emails. Comme tout le monde, je reçois peu de messages qui ne me sont pas directement adressés, quand ce ne sont pas carrément des spams.
 
-Je défend [depuis longtemps](/blog/ralentir/){:target="_blank"} le web du temps long : rss, [infolettres](/blog/faire-newsletter-pro/){:target="_blank"}, podcasts et emails.
+Je défend depuis longtemps le web du temps long : rss, infolettres, podcasts et emails.
 
 J'ai donc décidé de vous détailler quelques sites qui sont de jolis marqueurs de richesses en dehors d'un _"social"_ de plus en plus polluant. Ils ont pour vertu de vous obliger à vous poser.
 
